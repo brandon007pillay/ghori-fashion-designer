@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342918980674",
+    "firebase_url": "https://ghori-fashion-designer-d473f.firebaseio.com",
+    "project_id": "ghori-fashion-designer-d473f",
+    "storage_bucket": "ghori-fashion-designer-d473f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342918980674:android:67b3b305e5a8204a7cf9db",
+        "android_client_info": {
+          "package_name": "com.ghorifashiondesigner.gfd_official"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342918980674-9hh57l7os2dp5qivhdo1qtbva6ea1are.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ghorifashiondesigner.gfd_official",
+            "certificate_hash": "64d6b8bd32e8469bcbbe116cd1a44eb594e4f272"
+          }
+        },
+        {
+          "client_id": "342918980674-r2l0phpm217hra890hu95rtub2kfk3lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo4tvSZL80eb0ckzhZSqxpDrxJqDwaY4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342918980674-r2l0phpm217hra890hu95rtub2kfk3lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
